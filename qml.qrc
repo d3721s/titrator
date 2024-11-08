@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TitratorControlUI/imports/TitratorControlUI/Constants.qml</file>
+        <file>TitratorControlUI/imports/TitratorControlUI/DirectoryFontLoader.qml</file>
+        <file>TitratorControlUI/imports/TitratorControlUI/EventListModel.qml</file>
+        <file>TitratorControlUI/imports/TitratorControlUI/EventListSimulator.qml</file>
+        <file>TitratorControlUI/imports/TitratorControlUI/qmldir</file>
+        <file>TitratorControlUI/content/App.qml</file>
+        <file>TitratorControlUI/content/Screen01.ui.qml</file>
+        <file>TitratorControlUI/resource/experiment.png</file>
+        <file>TitratorControlUI/resource/history.png</file>
+        <file>TitratorControlUI/resource/setting.png</file>
+        <file>TitratorControlUI/resource/attention.svg</file>
+        <file>TitratorControlUI/resource/check-one.svg</file>
+        <file>TitratorControlUI/resource/ex.svg</file>
+        <file>TitratorControlUI/resource/soap-bubble.svg</file>
+        <file>TitratorControlUI/resource/infusion.svg</file>
+        <file>TitratorControlUI/resource/test-tube.svg</file>
+        <file>TitratorControlUI/content/Operation.ui.qml</file>
+        <file>TitratorControlUI/content/TitratorHistory.ui.qml</file>
+        <file>TitratorControlUI/content/TitratorSettings.ui.qml</file>
+    </qresource>
+</RCC>

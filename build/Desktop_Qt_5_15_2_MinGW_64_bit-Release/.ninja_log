@@ -1,0 +1,21 @@
+# ninja log v6
+23	203	7527312667651141	TitratorControl_autogen/timestamp	3512cad633c30b7c
+23	203	7527312667651141	TitratorControl_autogen/mocs_compilation.cpp	3512cad633c30b7c
+204	375	7527312669457635	C:/Users/lenovo/Documents/TitratorControl/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/TitratorControl_zh_CN.ts_lst_file	9d947906282f495f
+23	203	7527312667651141	C:/Users/lenovo/Documents/TitratorControl/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/TitratorControl_autogen/timestamp	3512cad633c30b7c
+23	203	7527312667651141	C:/Users/lenovo/Documents/TitratorControl/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/TitratorControl_autogen/mocs_compilation.cpp	3512cad633c30b7c
+204	375	7527312669457635	C:/Users/lenovo/Documents/TitratorControl/TitratorControl_zh_CN.ts	9d947906282f495f
+204	375	7527312669457635	CMakeFiles/TitratorControl_zh_CN.ts_lst_file	9d947906282f495f
+218	340	7527312670667316	TitratorControl_autogen/EWIEGA46WW/qrc_qml.cpp	b01f46003fa876a1
+899	1967	7526658576475030	CMakeFiles/TitratorControl.dir/TitratorControl_autogen/7RVR5LFHHG/qrc_fluentui.cpp.obj	89f2131d6540eb04
+218	340	7527312670667316	C:/Users/lenovo/Documents/TitratorControl/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/TitratorControl_autogen/EWIEGA46WW/qrc_qml.cpp	b01f46003fa876a1
+435	561	7526488995885075	CMakeFiles/TitratorControl.dir/TitratorControl_autogen/mocs_compilation.cpp.obj	c05179c9bc92a977
+375	549	7527312671176054	CMakeFiles/TitratorControl.dir/TitratorControl_autogen/EWIEGA46WW/qrc_qml.cpp.obj	b7050a6e81f0aab6
+246	461	7526658571835857	C:/Users/lenovo/Documents/TitratorControl/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/TitratorControl_autogen/7RVR5LFHHG/qrc_fluentui.cpp	d5ba6cb1bf608565
+313	1100	7526693884505263	CMakeFiles/TitratorControl.dir/main.cpp.obj	96e21badc2ce32b2
+549	723	7527312672920269	TitratorControl.exe	f43f474be4fb57c1
+227	350	7526658570836087	TitratorControl_autogen/EWIEGA46WW/qrc_titratorqml.cpp	e2511f939d4adb8f
+227	350	7526658570836087	C:/Users/lenovo/Documents/TitratorControl/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/TitratorControl_autogen/EWIEGA46WW/qrc_titratorqml.cpp	e2511f939d4adb8f
+246	461	7526658571835857	TitratorControl_autogen/7RVR5LFHHG/qrc_fluentui.cpp	d5ba6cb1bf608565
+885	1070	7526658576333928	CMakeFiles/TitratorControl.dir/TitratorControl_autogen/EWIEGA46WW/qrc_titratorqml.cpp.obj	78653f19f1434331
+6	601	7527315547999832	build.ninja	4bc80d54abba9785
